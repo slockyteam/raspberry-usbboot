@@ -1,7 +1,6 @@
-```
 make
+
 sudo ./rpiboot
-```
 
 diskutil list
 
