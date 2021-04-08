@@ -1,3 +1,5 @@
+https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md
+
 make
 
 sudo ./rpiboot
